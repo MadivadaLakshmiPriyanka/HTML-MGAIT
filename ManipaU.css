@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	background-color:aqua;
+}
+h4
+{
+	background-color:aqua;
+}
+table
+{
+	border:solid 3px black;
+	font-family:Courier New;
+	font-size:20px;
+}
+.bgc
+{
+	background-color:pink;
+	
+}
+#style1
+{
+	border:solid 5px pink;
+	margin:55px;
+	padding:55px;
+}

@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	background-color:grey;
+	color:blue;
+	border:solid 3px red;
+}
+h2
+{
+	background-color:yellow;
+}
+.btn1
+{
+	background-color:pink;
+	font-size:25px;
+	width:100px;
+	border:solid 3px red;
+}
+.btn2
+{
+	background-color:green;
+}
+#style1
+{
+	background-color:aqua;
+	font-size:25px;
+	width:100px;
+	border:solid 3px red;
+}
